@@ -1,3 +1,4 @@
+HEAD
 # 🏢 Google Careers France - Site de Recrutement
 
 Site web moderne de recrutement Google Careers en français avec système complet de candidature et base de données.
@@ -49,3 +50,7 @@ Consultez `DOCUMENTATION.md` pour plus de détails techniques.
 ---
 *Développé pour Google Careers France - 2025*
 
+
+# google-careers-site
+Site de vagas Google Careers em francês
+ 0c1638eb4c28825b91a65549dc6c1a817d7eb15a
